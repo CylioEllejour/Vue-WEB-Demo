@@ -1,0 +1,30 @@
+{
+  "name": "login_demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "SET NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/runtime-dom": "^3.4.31",
+    "axios": "^0.26.1",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "element-ui": "^2.15.8",
+    "express": "^4.17.3",
+    "hls.js": "^1.5.12",
+    "mysql": "^2.18.1",
+    "vue": "^2.6.11",
+    "vue-aplayer": "^1.6.1",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
