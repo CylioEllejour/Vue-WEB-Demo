@@ -23,7 +23,7 @@ npm install axios
 
 - Clone the project
 
-> git clone
+> git clone https://github.com/CylioEllejour/Vue-WEB-Demo
 
 - Run server
   
